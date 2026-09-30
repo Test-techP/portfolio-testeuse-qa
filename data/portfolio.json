@@ -1,14 +1,14 @@
 [
-    {
-        "title": "Booki",
-        "text": "Intégration responsive de la page d’accueil d’une agence de voyage à partir de maquettes, avec HTML et CSS.",
-        "image": "projet-booki.webp",
-        "link": "URL_DE_VOTRE_REPO_BOOKI"
-    },
-    {
-        "title": "Kasa",
-        "text": "Développement d’une application de location immobilière avec React : composants réutilisables, routage et gestion des erreurs.",
-        "image": "projet-kasa.webp",
-        "link": https://github.com/Test-techP/Projet-REACT_KASA"
-    }
+  {
+    "title": "Booki",
+    "text": "Intégration responsive de la page d’accueil d’une agence de voyage à partir de maquettes, avec HTML et CSS.",
+    "image": "projet-booki.webp",
+    "link": "https://github.com/Test-techP/Projet-3_Booki"
+  },
+  {
+    "title": "Kasa",
+    "text": "Développement d’une application de location immobilière avec React : composants réutilisables, routage et gestion des erreurs.",
+    "image": "projet-kasa.webp",
+    "link": "https://github.com/Test-techP/Projet-REACT_KASA"
+  }
 ]
