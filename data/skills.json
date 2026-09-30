@@ -1,44 +1,32 @@
 [
     {
-        "image": "html-css.jpg",
-        "title": "HTML - CSS",
-        "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS",
-        "height" : 450, 
-        "width" : 600
+        "title": "Tests fonctionnels",
+        "text": "Conception de plans et cas de test, tests exploratoires et de non-régression, suivi des anomalies.",
+        "image": "test.png"
     },
     {
-        "image": "js.jpg",
-        "title": "javascript",
-        "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires",
-        "height" : 450, 
-        "width" : 300
+        "title": "Automatisation de tests",
+        "text": "Automatisation de tests end-to-end et API avec Cypress, tests smoke et contrôles de sécurité XSS.",
+        "image": "optimisation-et-debug.png"
     },
     {
-        "image": "react.jpg",
-        "title": "React",
-        "text": "Création d’applications React, création de composants et manipulation de leur état",
-        "height" : 450, 
-        "width" : 812
-    },
-    {
-        "image": "gestion-de-projet.png",
         "title": "Gestion de projet",
-        "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet",
-        "height" : 256, 
-        "width" : 256
+        "text": "Utilisation d’Azure DevOps et Jira, méthodes Kanban, sprint planning et documentation fonctionnelle.",
+        "image": "gestion-de-projet.png"
     },
     {
-        "image": "optimisation-et-debug.png",
-        "title": "Optimisation et debug",
-        "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne",
-        "height" : 256, 
-        "width" : 256
+        "title": "HTML et CSS",
+        "text": "Intégration d’interfaces web responsives et accessibles à partir de maquettes.",
+        "image": "html-css.jpg"
     },
     {
-        "image": "test.png",
-        "title": "Test",
-        "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API",
-        "height" : 256, 
-        "width" : 256
+        "title": "JavaScript",
+        "text": "Manipulation du DOM, utilisation de données JSON et création de contenus dynamiques.",
+        "image": "js.jpg"
+    },
+    {
+        "title": "React",
+        "text": "Création de composants réutilisables, routage et gestion de l’état d’une application.",
+        "image": "react.jpg"
     }
 ]

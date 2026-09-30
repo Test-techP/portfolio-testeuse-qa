@@ -1,26 +1,14 @@
 [
     {
-        "image": "projet-booki.webp",
-        "width": 800,
-        "height": 317,
         "title": "Booki",
-        "text": "...",
-        "link": "#"
+        "text": "Intégration responsive de la page d’accueil d’une agence de voyage à partir de maquettes, avec HTML et CSS.",
+        "image": "projet-booki.webp",
+        "link": "URL_DE_VOTRE_REPO_BOOKI"
     },
     {
-        "image": "projet-mon-vieux-grimoire.webp",
-        "width": 728,
-        "height": 285,
-    "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
-    },
-    {
-        "image": "projet-kasa.webp",
-        "width": 512,
-        "height": 203,
         "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-        "link": "#"
+        "text": "Développement d’une application de location immobilière avec React : composants réutilisables, routage et gestion des erreurs.",
+        "image": "projet-kasa.webp",
+        "link": https://github.com/Test-techP/Projet-REACT_KASA"
     }
 ]
