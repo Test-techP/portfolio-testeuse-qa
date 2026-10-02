@@ -42,8 +42,6 @@ function createSkillsFromJSON() {
                         <div class="card-body">
                             <img src="./images/${item.image}"
                                 alt=""
-                                width="${item.width}"
-                                height="${item.height}"
                                 loading="lazy"
                                 decoding="async"
                             />
@@ -84,8 +82,6 @@ function createPortfolioFromJSON() {
                     <img class="card-img-top"
                         src="images/${item.image}"
                         alt="Aperçu du projet ${item.title}"
-                        width="${item.width}"
-                        height="${item.height}"
                         loading="lazy"
                         decoding="async"
                         style="width: 100%; height: auto;"
